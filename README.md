@@ -8,7 +8,7 @@ An easy way of storing usernames and passwords to a simple database.
 ## Skills Learned
 
 - Read and write to JSON files using python
-- JSON can only read certain serialized characters and characters encrypted with the Crypto library are unreadable which means storing secure passwords is impossible [Not a skill but I am still disappointed :( ]
+- JSON can only read certain serialized characters and characters encrypted with the Crypto library are unreadable which means storing secure passwords is impossible [Not a skill but I am still disappointed :( if there is a way around this please lmk.] 
 
 ## Tools
 
